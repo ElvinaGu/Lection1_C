@@ -1,0 +1,15 @@
+C:\Users\Ильнар\OneDrive\Рабочий стол\Education\C#\Lection1\LEC1\bin\Debug\net6.0\LEC1.exe
+C:\Users\Ильнар\OneDrive\Рабочий стол\Education\C#\Lection1\LEC1\bin\Debug\net6.0\LEC1.deps.json
+C:\Users\Ильнар\OneDrive\Рабочий стол\Education\C#\Lection1\LEC1\bin\Debug\net6.0\LEC1.runtimeconfig.json
+C:\Users\Ильнар\OneDrive\Рабочий стол\Education\C#\Lection1\LEC1\bin\Debug\net6.0\LEC1.dll
+C:\Users\Ильнар\OneDrive\Рабочий стол\Education\C#\Lection1\LEC1\bin\Debug\net6.0\LEC1.pdb
+C:\Users\Ильнар\OneDrive\Рабочий стол\Education\C#\Lection1\LEC1\obj\Debug\net6.0\LEC1.csproj.AssemblyReference.cache
+C:\Users\Ильнар\OneDrive\Рабочий стол\Education\C#\Lection1\LEC1\obj\Debug\net6.0\LEC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ильнар\OneDrive\Рабочий стол\Education\C#\Lection1\LEC1\obj\Debug\net6.0\LEC1.AssemblyInfoInputs.cache
+C:\Users\Ильнар\OneDrive\Рабочий стол\Education\C#\Lection1\LEC1\obj\Debug\net6.0\LEC1.AssemblyInfo.cs
+C:\Users\Ильнар\OneDrive\Рабочий стол\Education\C#\Lection1\LEC1\obj\Debug\net6.0\LEC1.csproj.CoreCompileInputs.cache
+C:\Users\Ильнар\OneDrive\Рабочий стол\Education\C#\Lection1\LEC1\obj\Debug\net6.0\LEC1.dll
+C:\Users\Ильнар\OneDrive\Рабочий стол\Education\C#\Lection1\LEC1\obj\Debug\net6.0\refint\LEC1.dll
+C:\Users\Ильнар\OneDrive\Рабочий стол\Education\C#\Lection1\LEC1\obj\Debug\net6.0\LEC1.pdb
+C:\Users\Ильнар\OneDrive\Рабочий стол\Education\C#\Lection1\LEC1\obj\Debug\net6.0\LEC1.genruntimeconfig.cache
+C:\Users\Ильнар\OneDrive\Рабочий стол\Education\C#\Lection1\LEC1\obj\Debug\net6.0\ref\LEC1.dll
